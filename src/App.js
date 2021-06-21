@@ -11,10 +11,7 @@ function App() {
   return (
     <div>
     <nav className="header">
-      <h1 className="top">Kesavan.S</h1>
-  ]
-      
-      
+      <h1 className="top">Kesavan.S</h1>  
     </nav>
     <nav className="navbar bg-light navbar-expand-lg navbar-light">
     <ul className="navbar-nav mr-auto">
