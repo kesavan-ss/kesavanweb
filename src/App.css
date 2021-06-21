@@ -151,7 +151,7 @@ img.skill:hover{
   background-color: #ee7d9a;
 }
 div.container{
-  background-image:url(D:\ToList\listap\src\wall.jpg);
+  background-image:url("./wall.jpg");
   opacity: 80%;
   max-width:max-content;
   max-height:max-content;
