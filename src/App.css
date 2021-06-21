@@ -57,6 +57,8 @@ nav.abt{
   font-family:Georgia, 'Times New Roman', Times, serif;
   padding: 10pt;
   color: #7b7e85;
+  width: 435px;
+  border-radius: 7px;
   background-color: #d2f5ff;
 }
 h4{
