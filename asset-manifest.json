@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/kesavanweb/static/css/main.efe55fa2.chunk.css",
+    "main.js": "/kesavanweb/static/js/main.4948a8a1.chunk.js",
+    "main.js.map": "/kesavanweb/static/js/main.4948a8a1.chunk.js.map",
+    "runtime-main.js": "/kesavanweb/static/js/runtime-main.f0447f7f.js",
+    "runtime-main.js.map": "/kesavanweb/static/js/runtime-main.f0447f7f.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/kesavanweb/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.43eb62d9.chunk.js": "/kesavanweb/static/js/2.43eb62d9.chunk.js",
+    "static/js/2.43eb62d9.chunk.js.map": "/kesavanweb/static/js/2.43eb62d9.chunk.js.map",
+    "static/js/3.36002b04.chunk.js": "/kesavanweb/static/js/3.36002b04.chunk.js",
+    "static/js/3.36002b04.chunk.js.map": "/kesavanweb/static/js/3.36002b04.chunk.js.map",
+    "index.html": "/kesavanweb/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/kesavanweb/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.efe55fa2.chunk.css.map": "/kesavanweb/static/css/main.efe55fa2.chunk.css.map",
+    "static/js/2.43eb62d9.chunk.js.LICENSE.txt": "/kesavanweb/static/js/2.43eb62d9.chunk.js.LICENSE.txt",
+    "static/media/3d.b0ebb4a0.jpg": "/kesavanweb/static/media/3d.b0ebb4a0.jpg",
+    "static/media/BB.28a32227.jpg": "/kesavanweb/static/media/BB.28a32227.jpg",
+    "static/media/Insta.0a22c965.svg": "/kesavanweb/static/media/Insta.0a22c965.svg",
+    "static/media/c.c0da8156.png": "/kesavanweb/static/media/c.c0da8156.png",
+    "static/media/css.ead1e37c.jpg": "/kesavanweb/static/media/css.ead1e37c.jpg",
+    "static/media/draw.a277b644.jpg": "/kesavanweb/static/media/draw.a277b644.jpg",
+    "static/media/ps.9e7408df.png": "/kesavanweb/static/media/ps.9e7408df.png",
+    "static/media/react.5f5680f6.png": "/kesavanweb/static/media/react.5f5680f6.png",
+    "static/media/twitter.57573394.png": "/kesavanweb/static/media/twitter.57573394.png",
+    "static/media/App.css": "/kesavanweb/static/media/wall.e34ad8e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0447f7f.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.43eb62d9.chunk.js",
+    "static/css/main.efe55fa2.chunk.css",
+    "static/js/main.4948a8a1.chunk.js"
+  ]
+}
