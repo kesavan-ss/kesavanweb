@@ -37,7 +37,7 @@
   }
 }
 .header{
-  background-color: rgba(15, 15, 73, 0.911);
+  background-image:linear-gradient(#171a42,rgb(32, 33, 110));
   height: 120px;
   
   
@@ -56,10 +56,10 @@ h1.wl{
 nav.abt{
   font-family:Georgia, 'Times New Roman', Times, serif;
   padding: 10pt;
-  color: #7b7e85;
-  width: 435px;
+  color: #bbbbbe;
+  width: 440px;
   border-radius: 7px;
-  background-color: #d2f5ff;
+  background-color: #212a7ed2;
 }
 h4{
   font-family:'Courier New', Courier, monospace;
@@ -80,7 +80,7 @@ nav.own{
   align-content: center;
   width:50px;
   height:50px;
-  background-color: rgba(15, 15, 73, 0.986);
+  background-image:linear-gradient(rgb(10, 10, 68),rgb(61, 38, 122),rgb(5, 5, 41));
   border-radius: 27px;
   width:60px;
   height:60px;
@@ -101,7 +101,7 @@ img.in{
 }
 
 nav.own:hover{
-  background-color: rgb(213, 222, 228);
+  background-image:linear-gradient(rgb(10, 10, 68),rgb(187, 23, 132),rgb(5, 5, 41));
 }
 a.std{
   text-decoration: none;
@@ -122,16 +122,16 @@ nav.study{
   padding-top: 10px;
   box-shadow:azure;
   border: rgb(255, 255, 255);
-  border-top-style:outset;
+  border-top-style:outset ;
   border-left-style: outset;
   padding-bottom: 5px;
-  background-color:#82c5d8 ;
+  background-image:linear-gradient(#171a42,rgb(46, 47, 136));
   width: 440px;
   border-radius:10px;
   float: left;
 }
 nav.study:hover{
-  background-color:rgba(22, 17, 88, 0.986) ;
+  background-image:linear-gradient(#252da8,rgb(46, 47, 136));
 }
 a.std:hover{
   color: #61dafb;
@@ -146,15 +146,16 @@ img.skill{
   padding: 20px;
   margin-left: 10px;
   margin-top: 5px;
-  background-color: #82c5d8;
+  background-image:linear-gradient(#030633,rgb(48, 50, 161),#080c3d);
   border-radius: 50px;
 }
 img.skill:hover{
-  background-color: #ee7d9a;
+  border-radius: 45px;
+  background-image:linear-gradient(rgb(48, 50, 161),#080c3d,rgb(48, 50, 161));
 }
 div.container{
   background-image:url("./wall.jpg");
-  opacity: 80%;
+  opacity: 100%;
   max-width:max-content;
   max-height:max-content;
 }
@@ -170,6 +171,12 @@ nav.bot{
   position: absolute;
 }
 h3.abh{
-  
+ 
   color: #565a63;
 }
+hr{
+  border-color: #282c34;
+  border-top:dashed;
+
+}
+
