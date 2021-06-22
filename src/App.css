@@ -36,3 +36,138 @@
     transform: rotate(360deg);
   }
 }
+.header{
+  background-color: rgba(15, 15, 73, 0.911);
+  height: 120px;
+  
+  
+}
+@keyframes div{
+  from{background-color: blue;}
+  to{background-color:cornsilk;}
+}
+h1.wl{
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-transform: uppercase;
+  padding: 30px;
+  
+}
+nav.abt{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding: 10pt;
+  color: #7b7e85;
+  background-color: #d2f5ff;
+}
+h4{
+  font-family:'Courier New', Courier, monospace;
+  color: rgba(255, 255, 255, 0.979);
+  align-content: center;
+  font-size: 15px;
+  margin-top: 20px;
+  padding: 20px;
+}
+h1.top{
+ color: cornsilk;
+ text-justify: auto;
+ text-transform: uppercase;
+ padding: 10px;
+ font-size: 70px;
+}
+nav.own{
+  align-content: center;
+  width:50px;
+  height:50px;
+  background-color: rgba(15, 15, 73, 0.986);
+  border-radius: 27px;
+  width:60px;
+  height:60px;
+  float: left;
+  margin-left: 20px;
+
+}
+img.in{
+  background-origin: padding-box;
+  
+  border-radius: 7px;
+  padding: 5px;
+  width:45px;
+  height:45px;
+  padding: 5px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+nav.own:hover{
+  background-color: rgb(213, 222, 228);
+}
+a.std{
+  text-decoration: none;
+  color: aliceblue; 
+ 
+}
+nav.edu{
+  align-content: center;
+  
+}
+
+nav.study{
+  
+  color: azure;
+  text-decoration-color: lemonchiffon;
+  padding-left: 20px;
+  padding:15px;
+  padding-top: 10px;
+  box-shadow:azure;
+  border: rgb(255, 255, 255);
+  border-top-style:outset;
+  border-left-style: outset;
+  padding-bottom: 5px;
+  background-color:#82c5d8 ;
+  width: 440px;
+  border-radius:10px;
+  float: left;
+}
+nav.study:hover{
+  background-color:rgba(22, 17, 88, 0.986) ;
+}
+a.std:hover{
+  color: #61dafb;
+}
+h6.run{
+  color: #ffffff;
+}
+
+img.skill{
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  margin-left: 10px;
+  margin-top: 5px;
+  background-color: #82c5d8;
+  border-radius: 50px;
+}
+img.skill:hover{
+  background-color: #ee7d9a;
+}
+div.container{
+  background-image:url(D:\ToList\listap\src\wall.jpg);
+  opacity: 80%;
+  max-width:max-content;
+  max-height:max-content;
+}
+h2.touch{
+ font-family: cursive;
+ padding-left: 20pt;
+ position: relative;
+
+}
+nav.bot{
+  align-content: flex-end;
+  color: #000000;
+  position: absolute;
+}
+h3.abh{
+  
+  color: #565a63;
+}
